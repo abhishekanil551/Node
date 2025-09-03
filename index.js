@@ -96,12 +96,13 @@ const fss = require('fs').promises;
 
 
 
+// show date in file
 
-let now=new Date()
-let date=now.toLocaleString()
-fs.writeFileSync('text.txt',`time and date: ${date}`)
-const read=fs.readFileSync('text.txt','utf-8');
-console.log(read)
+// let now=new Date()
+// let date=now.toLocaleString()
+// fs.writeFileSync('text.txt',`time and date: ${date}`)
+// const read=fs.readFileSync('text.txt','utf-8');
+// console.log(read)
 
 
 
