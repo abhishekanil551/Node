@@ -1,4 +1,4 @@
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/3acb4afb-b3ab-4f73-950f-506cc09713fd" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/3acb4afb-b3ab-4f73-950f-506cc09713fd" />
 
 
 # Node.js Tutorials
