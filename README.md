@@ -14,8 +14,6 @@ It covers fundamental to advanced **Node.js concepts** with examples and notes.
 - Middleware basics
 - Event Loop flow
 - Node.js working flow
-- Cluster Module
-- Streams and Buffers
 - Error handling in Node.js
 
 ## 📂 Project Structure
